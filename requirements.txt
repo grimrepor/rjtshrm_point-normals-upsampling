@@ -1,8 +1,8 @@
-h5py
-numpy
-pprint
-enum34
-future
-tqdm
-scipy
-sklearn
+h5py==2.9.0rc1
+numpy==1.9.3
+pprint==0.1
+enum34==1.1.6
+future==0.9.0
+tqdm==4.9.0
+scipy==1.4.1
+sklearn==0.22
